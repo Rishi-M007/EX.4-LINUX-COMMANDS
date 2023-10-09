@@ -243,5 +243,5 @@ Output:
 ```
 
 
-RESULT:
+## RESULT:
 Thus basis of UNIX commands are studied and executed.
